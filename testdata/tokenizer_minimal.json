@@ -1,0 +1,14 @@
+{
+  "model": {
+    "type": "BPE",
+    "vocab": {
+      "!": 0,
+      "a": 1,
+      "b": 2,
+      "ab": 3,
+      "c": 4
+    },
+    "merges": [["a", "b"]]
+  },
+  "added_tokens": []
+}
